@@ -2,7 +2,6 @@
 
 ![Alt text](assets/images/demo_pic.png?raw=true)
 
-[Basketball][basketball]
 
 A remake of Facebook Messenger's basketball game! This game is a frontend browser game built with JavaScript, Phaser, and Canvas.
 
